@@ -530,6 +530,11 @@ body {
   padding-bottom: 60px;
 }
 
+.footer-box {
+  width: 231px;
+  text-align: left;
+}
+
 .footer-box-link {
   display: inline-block;
   width: 146px;
@@ -655,8 +660,8 @@ body {
   width: 358px;
   margin-right: 12px;
   padding-left: 16px;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 14px;
+  padding-bottom: 14px;
   font-family: Roboto;
   font-style: normal;
   font-weight: normal;
